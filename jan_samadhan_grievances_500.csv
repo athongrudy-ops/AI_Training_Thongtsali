@@ -1,0 +1,501 @@
+complaint_id,date,state,department,status,resolution_days,complaint_narrative
+CPG-2026-0001,2026-05-06,Uttar Pradesh,Department of Telecommunications,Escalated,16.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0002,2026-01-14,Delhi,Ministry of Finance (Banking & Pensions),In Progress,13.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0003,2026-03-23,Maharashtra,Ministry of Road Transport & Highways,In Progress,17.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0004,2026-07-03,Assam,Ministry of Road Transport & Highways,Escalated,23.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0005,2026-07-05,Assam,Department of Consumer Affairs,In Progress,12.0,  Gas agency charging extra delivery fee above subsidized cylinder rate.   Ref#5803!!  
+CPG-2026-0006,2026-07-14,Tamil Nadu,Department of Consumer Affairs,In Progress,12.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0007,2026-02-06,Bihar,Ministry of Finance (Banking & Pensions),In Progress,23.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0008,2026-04-23,Assam,Ministry of Road Transport & Highways,In Progress,18.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0009,2026-04-19,Tamil Nadu,Ministry of Rural Development,In Progress,11.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0010,2026-05-16,Karnataka,Ministry of Road Transport & Highways,Escalated,,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0011,2026-03-12,Assam,Ministry of Road Transport & Highways,Resolved,17.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0012,2026-02-02,Rajasthan,Ministry of Finance (Banking & Pensions),Pending,11.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0013,2026-02-28,Karnataka,Ministry of Rural Development,Pending,11.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0014,2026-09-14,Uttar Pradesh,Ministry of Road Transport & Highways,Pending,15.0,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#5315!!  
+CPG-2026-0015,2026-10-04,Assam,Ministry of Health & Family Welfare,Pending,2.0,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#3646!!  
+CPG-2026-0016,2026-06-07,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Resolved,3.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0017,2026-03-07,Maharashtra,Ministry of Rural Development,Pending,10.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0018,2026-04-13,Tamil Nadu,Ministry of Health & Family Welfare,Escalated,7.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0019,2026-01-11,Bihar,Ministry of Health & Family Welfare,Resolved,15.0,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#6539!!  
+CPG-2026-0020,2026-06-19,Rajasthan,Department of Telecommunications,In Progress,,  Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.   Ref#1514!!  
+CPG-2026-0021,2026-05-05,Bihar,Department of Telecommunications,Resolved,8.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0022,2026-01-28,Uttar Pradesh,Ministry of Road Transport & Highways,Resolved,5.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0023,2026-10-02,Karnataka,Ministry of Road Transport & Highways,Escalated,22.0,  Severe potholes and waterlogging on highway causing daily traffic jams and accidents.   Ref#4116!!  
+CPG-2026-0024,2026-10-09,Assam,Ministry of Railways,Resolved,,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0025,2026-09-04,Assam,Ministry of Rural Development,In Progress,12.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0026,2026-08-21,Rajasthan,Department of Consumer Affairs,In Progress,14.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0027,2026-10-05,Assam,Ministry of Finance (Banking & Pensions),Escalated,,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0028,2026-02-11,Uttar Pradesh,Ministry of Rural Development,In Progress,5.0,  MGNREGA wages for last month's work have not been credited to job card holders.   Ref#9320!!  
+CPG-2026-0029,2026-01-21,Tamil Nadu,Department of Consumer Affairs,Pending,10.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0030,2026-03-09,Tamil Nadu,Department of Telecommunications,Resolved,14.0,
+CPG-2026-0031,2026-02-07,Maharashtra,Department of Telecommunications,Pending,7.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0032,2026-08-13,Assam,Ministry of Railways,Pending,16.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0033,2026-02-24,Karnataka,Ministry of Finance (Banking & Pensions),In Progress,10.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0034,2026-09-16,Assam,Ministry of Finance (Banking & Pensions),Resolved,12.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0035,2026-05-15,Delhi,Ministry of Rural Development,Resolved,,  MGNREGA wages for last month's work have not been credited to job card holders.   Ref#3143!!  
+CPG-2026-0036,2026-07-09,Maharashtra,Department of Consumer Affairs,Resolved,10.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0037,2026-04-18,Tamil Nadu,Ministry of Railways,Escalated,25.0,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0038,2026-04-01,,Department of Telecommunications,Pending,13.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0039,2026-05-08,Uttar Pradesh,Ministry of Road Transport & Highways,Escalated,7.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0040,2026-06-29,Bihar,Ministry of Rural Development,In Progress,18.0,  MGNREGA wages for last month's work have not been credited to job card holders.   Ref#8541!!  
+CPG-2026-0041,2026-02-05,Delhi,Ministry of Finance (Banking & Pensions),Pending,6.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0042,2026-01-20,Tamil Nadu,Ministry of Finance (Banking & Pensions),Escalated,,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#5349!!  "
+CPG-2026-0043,2026-04-08,Assam,Ministry of Health & Family Welfare,In Progress,15.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0044,2026-06-10,Karnataka,Ministry of Finance (Banking & Pensions),Pending,2.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0045,2026-03-07,Delhi,Ministry of Road Transport & Highways,In Progress,6.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0046,2026-06-05,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,15.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0047,2026-03-28,Tamil Nadu,Department of Telecommunications,Resolved,18.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0048,2026-04-12,Rajasthan,Ministry of Rural Development,Resolved,,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0049,2026-07-16,Assam,Ministry of Railways,Resolved,15.0,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0050,2026-01-26,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Escalated,13.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0051,2026-11-01,Rajasthan,Ministry of Health & Family Welfare,Escalated,12.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0052,2026-09-01,Karnataka,Ministry of Health & Family Welfare,Escalated,5.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0053,2026-05-01,Uttar Pradesh,Ministry of Road Transport & Highways,In Progress,9.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0054,2026-02-02,Rajasthan,Ministry of Road Transport & Highways,Escalated,11.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0055,2026-10-27,,Ministry of Rural Development,Escalated,20.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0056,2026-08-03,Bihar,Department of Consumer Affairs,Escalated,16.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0057,2026-07-27,Maharashtra,Ministry of Road Transport & Highways,Resolved,3.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0058,2026-03-11,Karnataka,Ministry of Health & Family Welfare,Escalated,15.0,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#8022!!  
+CPG-2026-0059,2026-07-14,Delhi,Ministry of Health & Family Welfare,Pending,11.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0060,2026-06-29,Assam,Ministry of Health & Family Welfare,Resolved,9.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0061,2026-05-03,Bihar,Ministry of Finance (Banking & Pensions),Escalated,,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0062,2026-02-28,Karnataka,Ministry of Rural Development,Resolved,17.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0063,2026-04-12,Bihar,Ministry of Railways,Resolved,,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0064,2026-03-03,Assam,Ministry of Road Transport & Highways,Pending,20.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0065,2026-06-24,Rajasthan,Department of Telecommunications,Resolved,,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0066,2026-08-11,Karnataka,Ministry of Road Transport & Highways,Escalated,,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0067,2026-05-06,Rajasthan,Ministry of Rural Development,In Progress,19.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0068,2026-01-15,Rajasthan,Ministry of Health & Family Welfare,In Progress,8.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0069,2026-05-22,Bihar,Ministry of Road Transport & Highways,Resolved,12.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0070,2026-09-01,Assam,Ministry of Road Transport & Highways,Resolved,15.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0071,2026-10-25,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,19.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0072,2026-05-19,Bihar,Ministry of Health & Family Welfare,Pending,11.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0073,2026-09-05,Karnataka,Ministry of Health & Family Welfare,Resolved,12.0,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#4545!!  
+CPG-2026-0074,2026-10-01,Assam,Ministry of Road Transport & Highways,Pending,,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#1231!!  
+CPG-2026-0075,2026-10-21,Tamil Nadu,Ministry of Finance (Banking & Pensions),In Progress,7.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#1200!!  "
+CPG-2026-0076,2026-07-25,Assam,Ministry of Road Transport & Highways,In Progress,6.0,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#2070!!  
+CPG-2026-0077,2026-03-02,Bihar,Ministry of Health & Family Welfare,Escalated,18.0,  Ayushman Bharat e-card portal showing error for senior citizen family member.   Ref#5066!!  
+CPG-2026-0078,2026-06-06,Uttar Pradesh,Ministry of Health & Family Welfare,In Progress,22.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0079,2026-10-10,,Ministry of Road Transport & Highways,Escalated,,  Severe potholes and waterlogging on highway causing daily traffic jams and accidents.   Ref#3847!!  
+CPG-2026-0080,2026-08-21,Karnataka,Ministry of Health & Family Welfare,In Progress,,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#5632!!  
+CPG-2026-0081,2026-03-14,Karnataka,Ministry of Health & Family Welfare,Pending,,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#5352!!  
+CPG-2026-0082,2026-05-20,Uttar Pradesh,Ministry of Health & Family Welfare,Resolved,13.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0083,2026-02-16,Assam,Department of Telecommunications,Pending,20.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0084,2026-08-15,Delhi,Ministry of Rural Development,Escalated,16.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0085,2026-02-23,Rajasthan,Ministry of Health & Family Welfare,Pending,10.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0086,2026-06-11,Delhi,Ministry of Road Transport & Highways,Resolved,16.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#2442!!  "
+CPG-2026-0087,2026-07-05,Rajasthan,Ministry of Health & Family Welfare,Resolved,23.0,  Ayushman Bharat e-card portal showing error for senior citizen family member.   Ref#9494!!  
+CPG-2026-0088,2026-09-06,Bihar,Ministry of Health & Family Welfare,In Progress,,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0089,2026-08-25,Maharashtra,Ministry of Finance (Banking & Pensions),Escalated,13.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#2858!!  "
+CPG-2026-0090,2026-09-05,Maharashtra,Ministry of Road Transport & Highways,Escalated,23.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0091,2026-02-05,Delhi,Ministry of Health & Family Welfare,Pending,1.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0092,2026-06-02,Rajasthan,Ministry of Health & Family Welfare,In Progress,18.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0093,2026-10-06,Bihar,Ministry of Health & Family Welfare,In Progress,14.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0094,2026-07-15,Maharashtra,Ministry of Finance (Banking & Pensions),Escalated,12.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#8749!!  "
+CPG-2026-0095,2026-02-21,Rajasthan,Ministry of Finance (Banking & Pensions),Resolved,14.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0096,2026-02-08,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,2.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0097,2026-07-14,Rajasthan,Ministry of Rural Development,Resolved,12.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0098,2026-04-27,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Resolved,16.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0099,2026-05-31,Bihar,Department of Telecommunications,Escalated,22.0,  Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.   Ref#1919!!  
+CPG-2026-0100,2026-05-04,Bihar,Ministry of Rural Development,Escalated,10.0,  MGNREGA wages for last month's work have not been credited to job card holders.   Ref#7267!!  
+CPG-2026-0101,2026-05-28,Rajasthan,Ministry of Health & Family Welfare,Pending,9.0,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#8622!!  
+CPG-2026-0102,2026-08-22,Delhi,Ministry of Road Transport & Highways,Escalated,10.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0103,2026-06-01,Delhi,Ministry of Road Transport & Highways,Pending,,
+CPG-2026-0104,2026-11-07,Karnataka,Ministry of Rural Development,In Progress,19.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0105,2026-03-12,Assam,Ministry of Road Transport & Highways,Pending,15.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#5106!!  "
+CPG-2026-0106,2026-02-16,Delhi,Ministry of Finance (Banking & Pensions),In Progress,10.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0107,2026-05-20,Rajasthan,Ministry of Rural Development,Pending,17.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0108,2026-02-08,Delhi,Ministry of Road Transport & Highways,Pending,,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0109,2026-08-21,Karnataka,Ministry of Road Transport & Highways,Escalated,14.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0110,2026-08-30,Tamil Nadu,Department of Consumer Affairs,In Progress,,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0111,2026-06-04,Assam,Department of Telecommunications,Resolved,19.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0112,2026-03-11,Delhi,Ministry of Health & Family Welfare,In Progress,9.0,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#9807!!  
+CPG-2026-0113,2026-05-24,Rajasthan,Department of Telecommunications,Escalated,,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0114,2026-07-08,Tamil Nadu,Ministry of Rural Development,Resolved,12.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0115,2026-08-21,Assam,Ministry of Finance (Banking & Pensions),Resolved,,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0116,2026-04-16,Bihar,Ministry of Road Transport & Highways,In Progress,,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0117,2026-11-02,Maharashtra,Ministry of Finance (Banking & Pensions),In Progress,,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0118,2026-01-14,Bihar,Ministry of Rural Development,Pending,,
+CPG-2026-0119,2026-09-27,Rajasthan,Ministry of Road Transport & Highways,Pending,,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0120,2026-09-24,Assam,Ministry of Finance (Banking & Pensions),Resolved,11.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#1710!!  
+CPG-2026-0121,2026-09-09,Uttar Pradesh,Ministry of Rural Development,Pending,5.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0122,2026-10-27,Karnataka,Ministry of Finance (Banking & Pensions),Escalated,15.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0123,2026-08-09,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,15.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#4522!!  "
+CPG-2026-0124,2026-05-11,Rajasthan,Department of Telecommunications,Resolved,14.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0125,2026-03-08,Tamil Nadu,Ministry of Finance (Banking & Pensions),Resolved,12.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#7105!!  "
+CPG-2026-0126,2026-01-27,Tamil Nadu,Ministry of Railways,Resolved,5.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0127,2026-02-25,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Pending,11.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0128,2026-11-11,Karnataka,Ministry of Rural Development,Resolved,11.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0129,2026-06-29,Delhi,Department of Telecommunications,Resolved,,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0130,2026-04-21,Maharashtra,Department of Telecommunications,Pending,9.0,  Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.   Ref#9691!!  
+CPG-2026-0131,2026-01-27,Assam,Ministry of Road Transport & Highways,Resolved,,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0132,2026-08-01,Uttar Pradesh,Department of Telecommunications,Pending,13.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0133,2026-09-27,Delhi,Ministry of Road Transport & Highways,Resolved,16.0,
+CPG-2026-0134,2026-05-11,Rajasthan,Ministry of Road Transport & Highways,Escalated,25.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0135,2026-02-06,Delhi,Ministry of Road Transport & Highways,Resolved,15.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#6802!!  "
+CPG-2026-0136,2026-10-21,Karnataka,Ministry of Finance (Banking & Pensions),Resolved,15.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0137,2026-08-24,Uttar Pradesh,Department of Consumer Affairs,Escalated,13.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0138,2026-02-10,Tamil Nadu,Ministry of Road Transport & Highways,In Progress,2.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0139,2026-09-29,Tamil Nadu,Ministry of Finance (Banking & Pensions),Pending,13.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0140,2026-05-12,Uttar Pradesh,Ministry of Rural Development,In Progress,14.0,  MGNREGA wages for last month's work have not been credited to job card holders.   Ref#3399!!  
+CPG-2026-0141,2026-10-24,Tamil Nadu,Department of Telecommunications,Pending,28.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0142,2026-05-21,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Pending,12.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0143,2026-02-09,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Escalated,15.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0144,2026-08-19,Bihar,Ministry of Health & Family Welfare,Pending,13.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0145,2026-06-25,Maharashtra,Ministry of Health & Family Welfare,Resolved,6.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0146,2026-11-09,Karnataka,Ministry of Road Transport & Highways,Escalated,,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0147,2026-02-03,Delhi,Ministry of Road Transport & Highways,Pending,20.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#6482!!  "
+CPG-2026-0148,2026-06-20,Tamil Nadu,Ministry of Rural Development,Pending,,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0149,2026-06-08,Tamil Nadu,Department of Telecommunications,In Progress,18.0,  Unwanted promotional calls and SMS fraud continuing despite DND activation.   Ref#2388!!  
+CPG-2026-0150,2026-09-27,Tamil Nadu,Ministry of Rural Development,Resolved,,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0151,2026-09-06,Maharashtra,Ministry of Finance (Banking & Pensions),Resolved,18.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0152,2026-09-27,Maharashtra,Ministry of Rural Development,Escalated,,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0153,2026-03-26,Tamil Nadu,Ministry of Finance (Banking & Pensions),In Progress,8.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0154,2026-04-30,Rajasthan,Department of Telecommunications,In Progress,22.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0155,2026-05-25,Delhi,Department of Consumer Affairs,In Progress,5.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0156,2026-01-27,Uttar Pradesh,Ministry of Rural Development,Resolved,17.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0157,2026-09-20,Bihar,Ministry of Rural Development,Escalated,,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0158,2026-07-11,Tamil Nadu,Ministry of Railways,In Progress,27.0,  Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.   Ref#9224!!  
+CPG-2026-0159,2026-03-12,Rajasthan,Ministry of Railways,In Progress,,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0160,2026-01-10,Delhi,Ministry of Health & Family Welfare,Resolved,8.0,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#2298!!  
+CPG-2026-0161,2026-08-23,Rajasthan,Ministry of Finance (Banking & Pensions),Resolved,,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#7878!!  
+CPG-2026-0162,2026-01-01,Delhi,Ministry of Health & Family Welfare,In Progress,10.0,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#8032!!  
+CPG-2026-0163,2026-10-06,Assam,Ministry of Finance (Banking & Pensions),Escalated,14.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#9618!!  "
+CPG-2026-0164,2026-05-10,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Pending,10.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0165,2026-06-20,Tamil Nadu,Department of Telecommunications,In Progress,,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0166,2026-04-04,Rajasthan,Department of Telecommunications,Resolved,4.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0167,2026-06-11,Rajasthan,Ministry of Finance (Banking & Pensions),Pending,14.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0168,2026-01-25,Uttar Pradesh,Department of Telecommunications,Pending,7.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0169,2026-07-17,Rajasthan,Ministry of Road Transport & Highways,Pending,16.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0170,2026-02-10,Maharashtra,Ministry of Health & Family Welfare,Pending,8.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0171,2026-08-17,Rajasthan,Ministry of Finance (Banking & Pensions),Pending,23.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0172,2026-08-11,Assam,Department of Telecommunications,Resolved,9.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0173,2026-03-23,Rajasthan,Ministry of Road Transport & Highways,Resolved,12.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0174,2026-07-16,Maharashtra,Ministry of Finance (Banking & Pensions),Escalated,18.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0175,2026-09-29,Karnataka,Ministry of Road Transport & Highways,In Progress,6.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0176,2026-07-18,Karnataka,Ministry of Finance (Banking & Pensions),Escalated,15.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0177,2026-09-09,Uttar Pradesh,Department of Telecommunications,Escalated,21.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0178,2026-06-13,Karnataka,Department of Telecommunications,Pending,4.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0179,2026-07-05,Bihar,Department of Telecommunications,In Progress,15.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0180,2026-07-08,Maharashtra,Ministry of Health & Family Welfare,Resolved,15.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0181,2026-09-27,Uttar Pradesh,Ministry of Road Transport & Highways,In Progress,18.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0182,2026-09-22,Maharashtra,Department of Telecommunications,In Progress,6.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0183,2026-09-23,Tamil Nadu,Ministry of Railways,In Progress,,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0184,2026-05-09,Karnataka,Department of Consumer Affairs,In Progress,6.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0185,2026-03-28,Maharashtra,Department of Telecommunications,Pending,17.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0186,2026-04-18,Assam,Ministry of Health & Family Welfare,Escalated,15.0,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#5336!!  
+CPG-2026-0187,2026-09-05,Delhi,Ministry of Health & Family Welfare,Pending,15.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0188,2026-09-05,Maharashtra,Department of Telecommunications,Pending,16.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0189,2026-03-08,Uttar Pradesh,Ministry of Road Transport & Highways,Pending,9.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0190,2026-01-26,Delhi,Ministry of Finance (Banking & Pensions),In Progress,15.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#2586!!  "
+CPG-2026-0191,2026-06-10,Rajasthan,Ministry of Railways,Escalated,15.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0192,2026-09-16,Tamil Nadu,Ministry of Health & Family Welfare,Resolved,9.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0193,2026-05-27,Delhi,Ministry of Health & Family Welfare,In Progress,25.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0194,2026-07-25,Tamil Nadu,Department of Telecommunications,Pending,,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0195,2026-11-09,Delhi,Ministry of Health & Family Welfare,Pending,,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0196,2026-04-12,Assam,Ministry of Road Transport & Highways,Resolved,16.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0197,2026-03-18,Tamil Nadu,Department of Telecommunications,Pending,6.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0198,2026-09-17,Karnataka,Department of Consumer Affairs,Escalated,17.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0199,2026-10-26,Assam,Ministry of Road Transport & Highways,Escalated,8.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#7824!!  "
+CPG-2026-0200,2026-01-27,Delhi,Department of Telecommunications,In Progress,18.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0201,2026-02-26,Delhi,Ministry of Road Transport & Highways,In Progress,20.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0202,2026-08-30,Assam,Ministry of Finance (Banking & Pensions),In Progress,9.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0203,2026-07-12,Tamil Nadu,Ministry of Health & Family Welfare,Pending,19.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0204,2026-05-16,Bihar,Ministry of Rural Development,Pending,16.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0205,2026-04-17,Rajasthan,Ministry of Finance (Banking & Pensions),Pending,18.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0206,2026-10-21,Delhi,Ministry of Railways,Pending,25.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0207,2026-06-27,Rajasthan,Ministry of Rural Development,In Progress,12.0,  PMAY-G housing installment pending inspection approval since August.   Ref#2294!!  
+CPG-2026-0208,2026-03-12,Bihar,Ministry of Health & Family Welfare,In Progress,,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0209,2026-01-27,Rajasthan,Ministry of Railways,Resolved,,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0210,2026-03-22,Rajasthan,Ministry of Finance (Banking & Pensions),Escalated,9.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0211,2026-01-31,Bihar,Ministry of Rural Development,Resolved,8.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0212,2026-01-19,Rajasthan,Ministry of Finance (Banking & Pensions),In Progress,9.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0213,2026-01-05,Tamil Nadu,Department of Consumer Affairs,Pending,13.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0214,2026-03-10,Bihar,Department of Telecommunications,Resolved,16.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0215,2026-04-06,Karnataka,Department of Telecommunications,In Progress,,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0216,2026-09-21,Uttar Pradesh,Ministry of Rural Development,In Progress,15.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0217,2026-05-01,Tamil Nadu,Ministry of Health & Family Welfare,Pending,18.0,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#7284!!  
+CPG-2026-0218,2026-05-01,Karnataka,Ministry of Health & Family Welfare,In Progress,,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0219,2026-03-02,Tamil Nadu,Ministry of Health & Family Welfare,In Progress,14.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0220,2026-11-07,Rajasthan,Ministry of Finance (Banking & Pensions),In Progress,22.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0221,2026-02-11,Tamil Nadu,Department of Telecommunications,Resolved,12.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0222,2026-04-14,Tamil Nadu,Ministry of Finance (Banking & Pensions),Escalated,30.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0223,2026-09-19,Maharashtra,Ministry of Finance (Banking & Pensions),Escalated,17.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0224,2026-06-07,Assam,Ministry of Finance (Banking & Pensions),In Progress,8.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0225,2026-10-05,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Escalated,7.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0226,2026-08-04,Rajasthan,Ministry of Road Transport & Highways,Escalated,16.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0227,2026-03-10,Maharashtra,Department of Telecommunications,Escalated,12.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0228,2026-01-12,Delhi,Department of Telecommunications,Escalated,18.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0229,2026-02-27,Assam,Ministry of Road Transport & Highways,In Progress,,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#4088!!  
+CPG-2026-0230,2026-01-25,Rajasthan,Ministry of Finance (Banking & Pensions),In Progress,16.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0231,2026-04-30,Tamil Nadu,Ministry of Rural Development,Pending,13.0,  MGNREGA wages for last month's work have not been credited to job card holders.   Ref#5739!!  
+CPG-2026-0232,2026-05-21,Maharashtra,Ministry of Railways,Escalated,,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0233,2026-07-15,Delhi,Ministry of Finance (Banking & Pensions),Escalated,8.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0234,2026-04-26,Rajasthan,Ministry of Road Transport & Highways,Resolved,4.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0235,2026-05-11,Rajasthan,Department of Consumer Affairs,Pending,11.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0236,2026-11-06,Bihar,Department of Telecommunications,In Progress,19.0,  Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.   Ref#7179!!  
+CPG-2026-0237,2026-01-08,Uttar Pradesh,Ministry of Rural Development,Escalated,15.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0238,2026-10-10,Rajasthan,Department of Telecommunications,Pending,6.0,  Mobile number portability request rejected without valid reason by operator.   Ref#4921!!  
+CPG-2026-0239,2026-08-29,Bihar,Ministry of Road Transport & Highways,Pending,15.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0240,2026-01-09,Delhi,Ministry of Finance (Banking & Pensions),Pending,16.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0241,2026-05-06,Tamil Nadu,Ministry of Road Transport & Highways,Pending,8.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0242,2026-09-09,Tamil Nadu,Ministry of Health & Family Welfare,In Progress,14.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0243,2026-10-05,Assam,Ministry of Health & Family Welfare,Resolved,14.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0244,2026-04-29,Bihar,Department of Telecommunications,Escalated,,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0245,2026-09-05,,Department of Telecommunications,Escalated,7.0,
+CPG-2026-0246,2026-05-27,Delhi,Ministry of Health & Family Welfare,In Progress,,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0247,2026-05-10,Delhi,Ministry of Finance (Banking & Pensions),Resolved,16.0,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#9625!!  
+CPG-2026-0248,2026-06-03,Assam,Ministry of Road Transport & Highways,Resolved,17.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#4700!!  "
+CPG-2026-0249,2026-03-29,Tamil Nadu,Ministry of Road Transport & Highways,Resolved,,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#1154!!  
+CPG-2026-0250,2026-05-19,Karnataka,Ministry of Railways,Resolved,,  Tatkal ticket refund not received after train cancellation; PNR status unclear.   Ref#8790!!  
+CPG-2026-0251,2026-10-28,Delhi,Ministry of Rural Development,Resolved,,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0252,2026-07-19,Delhi,Ministry of Health & Family Welfare,In Progress,20.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0253,2026-06-27,Uttar Pradesh,Department of Telecommunications,Pending,,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0254,2026-06-17,Rajasthan,Department of Telecommunications,Escalated,,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0255,2026-10-27,Karnataka,Ministry of Health & Family Welfare,In Progress,20.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0256,2026-03-20,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Resolved,5.0,
+CPG-2026-0257,2026-02-22,Rajasthan,Ministry of Road Transport & Highways,Escalated,,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0258,2026-07-17,Uttar Pradesh,Ministry of Finance (Banking & Pensions),In Progress,,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#6315!!  
+CPG-2026-0259,2026-06-04,Maharashtra,Ministry of Finance (Banking & Pensions),Escalated,8.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#5405!!  "
+CPG-2026-0260,2026-05-07,Bihar,Ministry of Road Transport & Highways,Escalated,17.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0261,2026-07-14,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,17.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0262,2026-11-05,Tamil Nadu,Ministry of Rural Development,In Progress,17.0,  Village handpump broken and drinking water supply disrupted for several days.   Ref#6253!!  
+CPG-2026-0263,2026-09-09,Tamil Nadu,Department of Consumer Affairs,Escalated,37.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0264,2026-10-31,Assam,Ministry of Rural Development,Escalated,17.0,  PMAY-G housing installment pending inspection approval since August.   Ref#4273!!  
+CPG-2026-0265,2026-02-05,Delhi,Ministry of Finance (Banking & Pensions),Escalated,20.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0266,2026-08-05,Rajasthan,Ministry of Road Transport & Highways,Escalated,19.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0267,2026-07-04,Uttar Pradesh,Ministry of Railways,Resolved,17.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0268,2026-10-16,Delhi,Department of Telecommunications,Pending,12.0,  Unwanted promotional calls and SMS fraud continuing despite DND activation.   Ref#1725!!  
+CPG-2026-0269,2026-09-19,Bihar,Ministry of Road Transport & Highways,Escalated,18.0,  Severe potholes and waterlogging on highway causing daily traffic jams and accidents.   Ref#4637!!  
+CPG-2026-0270,2026-09-14,Rajasthan,Ministry of Health & Family Welfare,Resolved,,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0271,2026-06-28,Bihar,Ministry of Railways,Escalated,9.0,  Tatkal ticket refund not received after train cancellation; PNR status unclear.   Ref#3321!!  
+CPG-2026-0272,2026-06-13,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Resolved,,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0273,2026-05-05,Tamil Nadu,Department of Telecommunications,Escalated,12.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0274,2026-04-06,Assam,Ministry of Finance (Banking & Pensions),In Progress,11.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0275,2026-04-16,Uttar Pradesh,Ministry of Road Transport & Highways,Resolved,14.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0276,2026-08-23,Rajasthan,Ministry of Health & Family Welfare,Pending,,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0277,2026-08-23,Karnataka,Department of Telecommunications,Resolved,27.0,  Mobile number portability request rejected without valid reason by operator.   Ref#6766!!  
+CPG-2026-0278,2026-04-04,Delhi,Ministry of Road Transport & Highways,Escalated,2.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0279,2026-03-30,Maharashtra,Ministry of Health & Family Welfare,In Progress,18.0,  Ayushman Bharat e-card portal showing error for senior citizen family member.   Ref#9804!!  
+CPG-2026-0280,2026-01-05,Delhi,Ministry of Health & Family Welfare,Escalated,4.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0281,2026-09-08,Bihar,Ministry of Health & Family Welfare,Pending,,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0282,2026-10-17,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Resolved,11.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#8492!!  "
+CPG-2026-0283,2026-01-22,Bihar,Ministry of Health & Family Welfare,Escalated,20.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0284,2026-01-17,Uttar Pradesh,Ministry of Rural Development,Escalated,14.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0285,2026-11-09,Maharashtra,Ministry of Finance (Banking & Pensions),In Progress,7.0,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#6744!!  
+CPG-2026-0286,2026-05-24,Karnataka,Ministry of Rural Development,Pending,9.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0287,2026-01-31,Maharashtra,Department of Consumer Affairs,In Progress,18.0,  E-commerce seller delivered defective appliance and refused replacement or refund.   Ref#7743!!  
+CPG-2026-0288,2026-07-21,Karnataka,Department of Telecommunications,Escalated,9.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0289,2026-05-23,Rajasthan,Ministry of Finance (Banking & Pensions),Escalated,15.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0290,2026-07-03,Delhi,Ministry of Finance (Banking & Pensions),In Progress,14.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#8511!!  
+CPG-2026-0291,2026-05-26,Rajasthan,Ministry of Rural Development,Pending,10.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0292,2026-01-09,Rajasthan,Ministry of Rural Development,Escalated,,
+CPG-2026-0293,2026-03-09,Karnataka,Department of Consumer Affairs,Resolved,26.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0294,2026-03-26,Bihar,Ministry of Road Transport & Highways,Escalated,,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0295,2026-03-09,Rajasthan,Department of Telecommunications,Resolved,17.0,
+CPG-2026-0296,2026-08-05,Bihar,Ministry of Road Transport & Highways,Escalated,1.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0297,2026-06-03,Maharashtra,Ministry of Rural Development,In Progress,,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0298,2026-08-14,Maharashtra,Ministry of Health & Family Welfare,Escalated,15.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0299,2026-03-13,Delhi,Ministry of Health & Family Welfare,Pending,10.0,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#2646!!  
+CPG-2026-0300,2026-05-08,Karnataka,Ministry of Road Transport & Highways,Resolved,19.0,  Severe potholes and waterlogging on highway causing daily traffic jams and accidents.   Ref#2380!!  
+CPG-2026-0301,2026-04-07,Assam,Department of Telecommunications,In Progress,9.0,  Unwanted promotional calls and SMS fraud continuing despite DND activation.   Ref#9348!!  
+CPG-2026-0302,2026-02-06,Tamil Nadu,Ministry of Finance (Banking & Pensions),Pending,13.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0303,2026-10-07,Uttar Pradesh,Ministry of Rural Development,Resolved,17.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0304,2026-07-23,Delhi,Ministry of Finance (Banking & Pensions),Escalated,19.0,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#1990!!  
+CPG-2026-0305,2026-03-20,Bihar,Ministry of Finance (Banking & Pensions),In Progress,6.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0306,2026-02-03,Bihar,Ministry of Road Transport & Highways,Resolved,11.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0307,2026-11-08,Maharashtra,Ministry of Railways,Resolved,,
+CPG-2026-0308,2026-09-25,Karnataka,Ministry of Finance (Banking & Pensions),In Progress,11.0,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#6680!!  
+CPG-2026-0309,2026-03-02,,Department of Telecommunications,Escalated,10.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0310,2026-02-09,Assam,Ministry of Finance (Banking & Pensions),Escalated,24.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0311,2026-02-22,Uttar Pradesh,Ministry of Finance (Banking & Pensions),In Progress,16.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0312,2026-07-06,Assam,Ministry of Finance (Banking & Pensions),Escalated,6.0,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#8729!!  
+CPG-2026-0313,2026-02-09,Assam,Ministry of Road Transport & Highways,In Progress,19.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0314,2026-02-05,Karnataka,Ministry of Health & Family Welfare,Pending,26.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0315,2026-05-05,Rajasthan,Ministry of Health & Family Welfare,In Progress,20.0,  Ayushman Bharat e-card portal showing error for senior citizen family member.   Ref#5979!!  
+CPG-2026-0316,2026-01-13,Assam,Ministry of Health & Family Welfare,Pending,4.0,
+CPG-2026-0317,2026-02-23,Delhi,Department of Telecommunications,Escalated,11.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0318,2026-02-17,Delhi,Department of Consumer Affairs,Pending,,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0319,2026-07-21,Delhi,Department of Telecommunications,In Progress,,  Mobile number portability request rejected without valid reason by operator.   Ref#3187!!  
+CPG-2026-0320,2026-07-21,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,21.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0321,2026-03-21,Tamil Nadu,Ministry of Finance (Banking & Pensions),Escalated,,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#2785!!  
+CPG-2026-0322,2026-08-26,Maharashtra,Ministry of Road Transport & Highways,Pending,9.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0323,2026-03-17,Tamil Nadu,Department of Telecommunications,Escalated,,  Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.   Ref#6370!!  
+CPG-2026-0324,2026-03-31,Rajasthan,Department of Telecommunications,In Progress,,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0325,2026-04-24,Tamil Nadu,Ministry of Finance (Banking & Pensions),Resolved,,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#2010!!  
+CPG-2026-0326,2026-04-12,Maharashtra,Ministry of Road Transport & Highways,Resolved,16.0,  Severe potholes and waterlogging on highway causing daily traffic jams and accidents.   Ref#2056!!  
+CPG-2026-0327,2026-01-26,Delhi,Ministry of Rural Development,Escalated,,  PMAY-G housing installment pending inspection approval since August.   Ref#8552!!  
+CPG-2026-0328,2026-04-06,Maharashtra,Department of Telecommunications,Resolved,18.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0329,2026-07-30,Uttar Pradesh,Department of Telecommunications,Pending,8.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0330,2026-09-27,Assam,Ministry of Road Transport & Highways,Escalated,13.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0331,2026-06-26,Delhi,Ministry of Road Transport & Highways,Pending,1.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0332,2026-01-30,Tamil Nadu,Ministry of Road Transport & Highways,In Progress,7.0,  Severe potholes and waterlogging on highway causing daily traffic jams and accidents.   Ref#5602!!  
+CPG-2026-0333,2026-01-29,Delhi,Ministry of Finance (Banking & Pensions),Pending,12.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#9743!!  
+CPG-2026-0334,2026-07-03,,Department of Consumer Affairs,Pending,6.0,  E-commerce seller delivered defective appliance and refused replacement or refund.   Ref#6210!!  
+CPG-2026-0335,2026-09-10,Assam,Ministry of Health & Family Welfare,Resolved,23.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0336,2026-01-01,Maharashtra,Ministry of Health & Family Welfare,Pending,5.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0337,2026-10-28,Uttar Pradesh,Ministry of Railways,Pending,11.0,  Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.   Ref#3420!!  
+CPG-2026-0338,2026-02-21,Maharashtra,Ministry of Road Transport & Highways,Escalated,14.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0339,2026-04-25,Delhi,Department of Consumer Affairs,Pending,22.0,  Gas agency charging extra delivery fee above subsidized cylinder rate.   Ref#6846!!  
+CPG-2026-0340,2026-10-21,Assam,Ministry of Road Transport & Highways,In Progress,5.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0341,2026-02-23,Uttar Pradesh,Ministry of Railways,In Progress,20.0,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0342,2026-02-15,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,14.0,
+CPG-2026-0343,2026-02-25,Rajasthan,Ministry of Finance (Banking & Pensions),Escalated,8.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#5205!!  
+CPG-2026-0344,2026-06-29,Rajasthan,Ministry of Railways,In Progress,16.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0345,2026-06-13,Tamil Nadu,Ministry of Finance (Banking & Pensions),In Progress,15.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0346,2026-02-17,Rajasthan,Ministry of Finance (Banking & Pensions),Resolved,10.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0347,2026-03-22,Bihar,Department of Telecommunications,Escalated,,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0348,2026-05-25,Delhi,Department of Telecommunications,Escalated,14.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0349,2026-04-13,Karnataka,Ministry of Road Transport & Highways,Resolved,,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#8869!!  
+CPG-2026-0350,2026-05-16,Maharashtra,Ministry of Finance (Banking & Pensions),Pending,,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0351,2026-08-27,Assam,Ministry of Road Transport & Highways,In Progress,11.0,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#8204!!  
+CPG-2026-0352,2026-10-05,Bihar,Department of Telecommunications,Resolved,14.0,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0353,2026-09-01,Karnataka,Ministry of Rural Development,Resolved,17.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0354,2026-09-22,Maharashtra,Ministry of Rural Development,Resolved,23.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0355,2026-04-09,Delhi,Ministry of Health & Family Welfare,In Progress,,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0356,2026-02-04,Tamil Nadu,Department of Telecommunications,Pending,,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0357,2026-10-28,Delhi,Ministry of Railways,In Progress,6.0,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0358,2026-10-16,Tamil Nadu,Ministry of Health & Family Welfare,Escalated,26.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0359,2026-01-20,Delhi,Department of Telecommunications,Resolved,,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0360,2026-05-18,,Ministry of Railways,Pending,2.0,  Tatkal ticket refund not received after train cancellation; PNR status unclear.   Ref#8785!!  
+CPG-2026-0361,2026-04-27,Rajasthan,Ministry of Rural Development,Pending,,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0362,2026-04-19,Rajasthan,Ministry of Road Transport & Highways,Pending,13.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#8237!!  "
+CPG-2026-0363,2026-07-26,Assam,Ministry of Health & Family Welfare,In Progress,,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#9303!!  
+CPG-2026-0364,2026-01-26,Karnataka,Ministry of Rural Development,Pending,17.0,  MGNREGA wages for last month's work have not been credited to job card holders.   Ref#8478!!  
+CPG-2026-0365,2026-01-16,Rajasthan,Ministry of Health & Family Welfare,In Progress,15.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0366,2026-03-25,Uttar Pradesh,Ministry of Health & Family Welfare,Pending,10.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0367,2026-04-20,Bihar,Ministry of Finance (Banking & Pensions),Pending,12.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0368,2026-03-30,,Ministry of Health & Family Welfare,Pending,11.0,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#3167!!  
+CPG-2026-0369,2026-07-12,Bihar,Department of Consumer Affairs,Escalated,10.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0370,2026-02-22,Tamil Nadu,Ministry of Health & Family Welfare,Pending,,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0371,2026-05-22,Karnataka,Ministry of Finance (Banking & Pensions),Pending,19.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0372,2026-11-04,Maharashtra,Ministry of Health & Family Welfare,Resolved,16.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0373,2026-07-27,Bihar,Department of Consumer Affairs,Pending,9.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0374,2026-09-01,Karnataka,Ministry of Finance (Banking & Pensions),In Progress,19.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0375,2026-08-30,Maharashtra,Ministry of Railways,Pending,,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0376,2026-06-07,Tamil Nadu,Ministry of Finance (Banking & Pensions),Pending,15.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0377,2026-10-26,Rajasthan,Ministry of Health & Family Welfare,In Progress,18.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0378,2026-07-31,Maharashtra,Ministry of Rural Development,In Progress,,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0379,2026-02-11,Maharashtra,Department of Consumer Affairs,Pending,17.0,  Gas agency charging extra delivery fee above subsidized cylinder rate.   Ref#3954!!  
+CPG-2026-0380,2026-10-23,Uttar Pradesh,Ministry of Finance (Banking & Pensions),In Progress,9.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#3762!!  "
+CPG-2026-0381,2026-09-02,Bihar,Department of Telecommunications,Pending,10.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0382,2026-05-08,Karnataka,Ministry of Railways,In Progress,18.0,  Tatkal ticket refund not received after train cancellation; PNR status unclear.   Ref#1067!!  
+CPG-2026-0383,2026-06-02,Tamil Nadu,Ministry of Health & Family Welfare,Escalated,17.0,  Ayushman Bharat e-card portal showing error for senior citizen family member.   Ref#1749!!  
+CPG-2026-0384,2026-09-08,Delhi,Department of Consumer Affairs,Resolved,13.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0385,2026-10-29,Assam,Department of Telecommunications,Escalated,14.0,  Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.   Ref#1359!!  
+CPG-2026-0386,2026-11-01,Assam,Ministry of Road Transport & Highways,Resolved,21.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0387,2026-08-31,Assam,Ministry of Road Transport & Highways,Pending,10.0,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#5140!!  
+CPG-2026-0388,2026-11-07,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Resolved,17.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0389,2026-05-15,Tamil Nadu,Ministry of Rural Development,Escalated,12.0,  PMAY-G housing installment pending inspection approval since August.   Ref#4272!!  
+CPG-2026-0390,2026-09-04,,Ministry of Finance (Banking & Pensions),Resolved,12.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0391,2026-02-16,Uttar Pradesh,Ministry of Rural Development,Pending,20.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0392,2026-01-26,Assam,Ministry of Health & Family Welfare,Pending,,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0393,2026-02-18,Assam,Department of Telecommunications,In Progress,18.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0394,2026-05-18,Tamil Nadu,Ministry of Finance (Banking & Pensions),In Progress,18.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0395,2026-07-17,Delhi,Ministry of Road Transport & Highways,In Progress,21.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0396,2026-03-23,Rajasthan,Department of Telecommunications,Escalated,,Broadband fiber connection down for 10 days; work from home severely affected. Call +91-9123456789.
+CPG-2026-0397,2026-03-08,Delhi,Ministry of Road Transport & Highways,Escalated,14.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0398,2026-10-23,Tamil Nadu,Ministry of Road Transport & Highways,Resolved,18.0,  FASTag balance deducted at toll plaza even though lane was blocked.   Ref#9598!!  
+CPG-2026-0399,2026-07-17,Assam,Department of Telecommunications,Resolved,,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0400,2026-03-26,Bihar,Ministry of Finance (Banking & Pensions),Pending,,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0401,2026-07-13,Rajasthan,Ministry of Finance (Banking & Pensions),Escalated,12.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0402,2026-03-02,Assam,Ministry of Health & Family Welfare,Resolved,15.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0403,2026-11-06,Bihar,Ministry of Finance (Banking & Pensions),Escalated,13.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#2489!!  
+CPG-2026-0404,2026-08-21,Rajasthan,Ministry of Road Transport & Highways,Pending,14.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0405,2026-07-01,Karnataka,Ministry of Finance (Banking & Pensions),Pending,17.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#6592!!  
+CPG-2026-0406,2026-07-29,Bihar,Ministry of Finance (Banking & Pensions),Resolved,,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0407,2026-04-08,Delhi,Ministry of Road Transport & Highways,Resolved,9.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0408,2026-08-23,Maharashtra,Ministry of Rural Development,Escalated,26.0,
+CPG-2026-0409,2026-10-27,Maharashtra,Department of Telecommunications,In Progress,7.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0410,2026-11-07,Delhi,Ministry of Finance (Banking & Pensions),Escalated,6.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0411,2026-06-25,Maharashtra,Ministry of Railways,In Progress,20.0,Tatkal ticket refund not received after train cancellation; PNR status unclear.
+CPG-2026-0412,2026-10-08,Bihar,Department of Telecommunications,In Progress,18.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0413,2026-03-09,Maharashtra,Department of Telecommunications,Pending,17.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0414,2026-10-20,Karnataka,Ministry of Rural Development,Escalated,17.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0415,2026-01-28,Maharashtra,Ministry of Health & Family Welfare,Pending,13.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0416,2026-06-01,Tamil Nadu,Ministry of Finance (Banking & Pensions),Escalated,8.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0417,2026-04-25,Bihar,Ministry of Rural Development,Pending,14.0,Village handpump broken and drinking water supply disrupted for several days.
+CPG-2026-0418,2026-06-10,Karnataka,Ministry of Finance (Banking & Pensions),In Progress,9.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0419,2026-07-08,Bihar,Ministry of Rural Development,In Progress,19.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0420,2026-09-21,Karnataka,Ministry of Finance (Banking & Pensions),Pending,,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#3847!!  
+CPG-2026-0421,2026-03-21,Assam,Ministry of Health & Family Welfare,Pending,,  Ayushman Bharat e-card portal showing error for senior citizen family member.   Ref#8640!!  
+CPG-2026-0422,2026-09-27,Uttar Pradesh,Ministry of Health & Family Welfare,In Progress,13.0,  Ayushman Bharat e-card portal showing error for senior citizen family member.   Ref#6207!!  
+CPG-2026-0423,2026-04-20,Karnataka,Ministry of Health & Family Welfare,In Progress,9.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0424,2026-01-05,Bihar,Department of Telecommunications,In Progress,,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0425,2026-02-28,Karnataka,Department of Telecommunications,Resolved,12.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0426,2026-09-18,Bihar,Ministry of Rural Development,Pending,16.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0427,2026-10-03,Bihar,Department of Consumer Affairs,In Progress,10.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0428,2026-02-06,Rajasthan,Ministry of Road Transport & Highways,Pending,9.0,  Severe potholes and waterlogging on highway causing daily traffic jams and accidents.   Ref#8130!!  
+CPG-2026-0429,2026-10-13,Karnataka,Ministry of Finance (Banking & Pensions),Escalated,,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0430,2026-07-19,Uttar Pradesh,Department of Telecommunications,Resolved,15.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0431,2026-11-07,Rajasthan,Ministry of Finance (Banking & Pensions),Escalated,,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#5937!!  
+CPG-2026-0432,2026-03-11,Karnataka,Department of Telecommunications,In Progress,15.0,  Unwanted promotional calls and SMS fraud continuing despite DND activation.   Ref#4602!!  
+CPG-2026-0433,2026-01-06,Uttar Pradesh,Ministry of Railways,Resolved,10.0,
+CPG-2026-0434,2026-02-13,Tamil Nadu,Ministry of Health & Family Welfare,In Progress,11.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0435,2026-04-24,Uttar Pradesh,Department of Telecommunications,In Progress,15.0,  Mobile number portability request rejected without valid reason by operator.   Ref#4014!!  
+CPG-2026-0436,2026-10-09,Karnataka,Ministry of Health & Family Welfare,Resolved,5.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0437,2026-06-19,Bihar,Ministry of Finance (Banking & Pensions),Resolved,5.0,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0438,2026-08-19,Maharashtra,Ministry of Finance (Banking & Pensions),Pending,9.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0439,2026-04-24,Karnataka,Department of Consumer Affairs,Pending,12.0,  E-commerce seller delivered defective appliance and refused replacement or refund.   Ref#5033!!  
+CPG-2026-0440,2026-07-03,Uttar Pradesh,Department of Telecommunications,In Progress,15.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0441,2026-03-13,Uttar Pradesh,Ministry of Finance (Banking & Pensions),Resolved,22.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0442,2026-10-30,Karnataka,Ministry of Rural Development,Escalated,19.0,  Village handpump broken and drinking water supply disrupted for several days.   Ref#7637!!  
+CPG-2026-0443,2026-03-10,Delhi,Ministry of Finance (Banking & Pensions),Pending,13.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#5767!!  "
+CPG-2026-0444,2026-09-21,Maharashtra,Department of Telecommunications,Escalated,,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0445,2026-07-09,Tamil Nadu,Ministry of Finance (Banking & Pensions),Escalated,13.0,"  ATM debited Rs 10,000 twice at bank branch; refund not credited yet.   Ref#5331!!  "
+CPG-2026-0446,2026-02-22,Karnataka,Ministry of Health & Family Welfare,Pending,7.0,  Primary Health Centre lacks essential medicines and morning doctor is unavailable.   Ref#6309!!  
+CPG-2026-0447,2026-07-07,Uttar Pradesh,Ministry of Health & Family Welfare,Pending,13.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0448,2026-06-26,Assam,Ministry of Railways,In Progress,12.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0449,2026-04-19,Uttar Pradesh,Ministry of Finance (Banking & Pensions),In Progress,,PMJDY account KYC verification pending for 45 days despite submitting documents.
+CPG-2026-0450,2026-09-03,Delhi,Ministry of Road Transport & Highways,Resolved,15.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0451,2026-01-21,Maharashtra,Ministry of Finance (Banking & Pensions),Pending,9.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#9399!!  
+CPG-2026-0452,2026-10-16,Karnataka,Ministry of Health & Family Welfare,Resolved,17.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0453,2026-03-29,Maharashtra,Ministry of Health & Family Welfare,In Progress,23.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0454,2026-06-25,Uttar Pradesh,Ministry of Health & Family Welfare,In Progress,13.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0455,2026-08-03,Maharashtra,Ministry of Finance (Banking & Pensions),Escalated,16.0,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#9263!!  
+CPG-2026-0456,2026-03-02,Assam,Ministry of Health & Family Welfare,Escalated,,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0457,2026-08-08,Delhi,Ministry of Road Transport & Highways,Pending,18.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0458,2026-08-06,Bihar,Department of Telecommunications,Resolved,,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0459,2026-01-03,Uttar Pradesh,Ministry of Railways,Resolved,11.0,Unreserved coaches overcrowded and station washroom cleanliness needs urgent attention.
+CPG-2026-0460,2026-02-24,Karnataka,Ministry of Finance (Banking & Pensions),Pending,,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0461,2026-07-23,Rajasthan,Ministry of Road Transport & Highways,In Progress,15.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0462,2026-10-23,Maharashtra,Ministry of Health & Family Welfare,Resolved,14.0,Ayushman Bharat e-card portal showing error for senior citizen family member.
+CPG-2026-0463,2026-02-21,Tamil Nadu,Ministry of Health & Family Welfare,Resolved,14.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0464,2026-03-16,Uttar Pradesh,Department of Consumer Affairs,Resolved,9.0,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0465,2026-07-25,Assam,Ministry of Road Transport & Highways,In Progress,14.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#7296!!  "
+CPG-2026-0466,2026-09-23,Bihar,Ministry of Road Transport & Highways,In Progress,16.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0467,2026-02-14,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,22.0,"  Highway bypass streetlights not working for three weeks, unsafe at night.   Ref#3579!!  "
+CPG-2026-0468,2026-02-05,Tamil Nadu,Ministry of Finance (Banking & Pensions),Pending,19.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0469,2026-08-21,Karnataka,Ministry of Road Transport & Highways,In Progress,26.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0470,2026-06-24,Karnataka,Ministry of Finance (Banking & Pensions),Pending,9.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0471,2026-06-23,Rajasthan,Department of Consumer Affairs,Resolved,19.0,Gas agency charging extra delivery fee above subsidized cylinder rate.
+CPG-2026-0472,2026-04-23,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,15.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0473,2026-05-15,Tamil Nadu,Ministry of Health & Family Welfare,Resolved,27.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0474,2026-10-21,Bihar,Ministry of Finance (Banking & Pensions),Escalated,9.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0475,2026-04-16,Tamil Nadu,Ministry of Finance (Banking & Pensions),In Progress,8.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0476,2026-09-10,Assam,Ministry of Finance (Banking & Pensions),Escalated,10.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0477,2026-09-09,Karnataka,Ministry of Road Transport & Highways,Escalated,1.0,"Highway bypass streetlights not working for three weeks, unsafe at night."
+CPG-2026-0478,2026-08-05,Tamil Nadu,Ministry of Health & Family Welfare,Escalated,10.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0479,2026-09-23,Assam,Ministry of Rural Development,In Progress,9.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0480,2026-05-13,Karnataka,Ministry of Finance (Banking & Pensions),Escalated,14.0,"ATM debited Rs 10,000 twice at bank branch; refund not credited yet."
+CPG-2026-0481,2026-04-18,Tamil Nadu,Ministry of Road Transport & Highways,Escalated,16.0,Severe potholes and waterlogging on highway causing daily traffic jams and accidents.
+CPG-2026-0482,2026-04-28,Bihar,Ministry of Finance (Banking & Pensions),Escalated,25.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0483,2026-04-01,Tamil Nadu,Ministry of Finance (Banking & Pensions),Escalated,19.0,  PMJDY account KYC verification pending for 45 days despite submitting documents.   Ref#1159!!  
+CPG-2026-0484,2026-03-25,Rajasthan,Ministry of Health & Family Welfare,Resolved,,  Ambulance response took over 90 minutes during medical emergency in rural block.   Ref#2621!!  
+CPG-2026-0485,2026-10-13,Assam,Ministry of Road Transport & Highways,Escalated,10.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0486,2026-03-31,Tamil Nadu,Ministry of Rural Development,Escalated,8.0,  Village handpump broken and drinking water supply disrupted for several days.   Ref#9821!!  
+CPG-2026-0487,2026-05-27,Maharashtra,Ministry of Health & Family Welfare,Pending,16.0,Primary Health Centre lacks essential medicines and morning doctor is unavailable.
+CPG-2026-0488,2026-02-06,Tamil Nadu,Department of Telecommunications,Pending,,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0489,2026-05-19,Tamil Nadu,Department of Telecommunications,Escalated,6.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0490,2026-05-09,Uttar Pradesh,Ministry of Finance (Banking & Pensions),In Progress,24.0,  My pension payment under NPS has been delayed for two months. Contact 9876543210.   Ref#4844!!  
+CPG-2026-0491,2026-08-31,,Ministry of Finance (Banking & Pensions),Escalated,21.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0492,2026-03-21,Delhi,Department of Consumer Affairs,Pending,,E-commerce seller delivered defective appliance and refused replacement or refund.
+CPG-2026-0493,2026-03-09,Assam,Department of Telecommunications,Pending,11.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
+CPG-2026-0494,2026-10-04,Maharashtra,Ministry of Road Transport & Highways,In Progress,3.0,FASTag balance deducted at toll plaza even though lane was blocked.
+CPG-2026-0495,2026-10-16,Karnataka,Ministry of Health & Family Welfare,Pending,22.0,Ambulance response took over 90 minutes during medical emergency in rural block.
+CPG-2026-0496,2026-07-07,Assam,Ministry of Finance (Banking & Pensions),Resolved,13.0,My pension payment under NPS has been delayed for two months. Contact 9876543210.
+CPG-2026-0497,2026-08-29,Rajasthan,Ministry of Rural Development,Escalated,21.0,MGNREGA wages for last month's work have not been credited to job card holders.
+CPG-2026-0498,2026-01-04,Delhi,Ministry of Rural Development,Escalated,4.0,PMAY-G housing installment pending inspection approval since August.
+CPG-2026-0499,2026-07-13,Bihar,Department of Telecommunications,Pending,10.0,Mobile number portability request rejected without valid reason by operator.
+CPG-2026-0500,2026-02-05,Rajasthan,Department of Telecommunications,Escalated,14.0,Unwanted promotional calls and SMS fraud continuing despite DND activation.
